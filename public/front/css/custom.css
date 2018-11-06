@@ -1,0 +1,9 @@
+.help-block-error {
+    color: red;
+ }
+ #betaSuccessMessage{
+     color: green;
+ }
+ #betaErrorMessage p{
+    color: red; 
+ }

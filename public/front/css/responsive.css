@@ -1,0 +1,186 @@
+@media (max-width: 1366px){
+	section.our-mission .lft-img:before{height: 400px; width: 300px; left: -64px;}
+}
+
+@media (max-width: 1199px){
+
+	section.banner-sec .rgt-img:before{bottom: -54%;}
+	section.banner-sec .inner-banner{padding: 133px 0 170px;}
+	section.banner-sec.beta-banner-sec .gift-page h3{font-size: 48px;}
+	section.banner-sec:before{background-position: 0px 65px; height: 480px}
+	section.banner-sec:after{height: 305px;}
+	section.banner-sec.beta-banner-sec .gift-page .rounded-circle{width: 68px; height: 68px;}
+
+	section.our-mission .lft-img:after{height: 102px; width: 155px; right: 50px;}
+
+	section.experience{background-size: 36% 100%, 36% 100%;}
+}
+@media (max-width: 1070px){
+	section.our-mission .lft-img:before{height: 370px; width: 255px; left: -50px;}
+}
+
+@media (max-width: 1024px){
+	section.our-mission .lft-img:before {height: 348px; width: 200px; left: -37px;}
+	section.our-mission .lft-img:after {height: 102px; width: 130px; right: 62px;}
+}
+@media (max-width: 991px){
+	h2.title{font-size: 44px; line-height: 52px;}
+	.navbar-expand-lg.beta-pg  .navbar-nav{flex-direction: row;}
+	.common-model .modal-body {padding: 0 30px 80px 30px;}
+	.common-model .modal-dialog{margin: 1.75rem 1rem;}
+
+	header .navbar {padding: 30px 15px 30px;}
+	header .navbar-expand-lg .navbar-nav {align-items: start;}
+
+	section.banner-sec.beta-banner-sec h2{font-size: 42px; line-height: 56px;}
+	section.banner-sec h2 {font-size: 42px; line-height: 56px;}
+	section.banner-sec.beta-banner-sec p{font-size: 18px; line-height: 28px; padding-bottom: 30px;}
+	section.banner-sec .inner-banner{padding: 125px 0 118px;}
+	section.banner-sec.beta-banner-sec .rgt-img:before {bottom: -90%;}
+	section.banner-sec:before { background-position: 0px 55px; height: 385px;}
+	section.banner-sec:after {height: 250px;}
+	section.banner-sec.beta-banner-sec .gift-page h3 {font-size: 33px; line-height: 42px;}
+	section.banner-sec h2{font-size: 48px; line-height: 56px;}
+	section.banner-sec p{font-size: 18px; line-height: 28px; padding: 24px 0 30px;}
+	section.banner-sec .rgt-img:before {bottom: -84%;}
+	section.banner-sec .gift-page form button{padding: 13px 20px; width: 135px;}
+
+	section.experience {background-size: 30% 100%, 30% 100%;}
+
+	section.gifting h2.title{max-width: 100%;}
+
+	section.how-it-work h3{font-size: 20px; line-height: 30px;}
+
+	section.our-mission .lft-img img{max-width: 270px;}
+	section.our-mission .lft-img:before {height: 348px; width: 200px; left: -40px;}
+	section.our-mission .lft-img:after {height: 94px; width: 110px; right: 25px;}
+	section.our-mission:before{background-position: 0px 45px; height: 175px;}
+	section.our-mission ul li{padding: 15px 0 15px 20px;}
+
+	section.slider-sec .rounded-circle{width: 105px; height: 105px; right: -25px;}
+	section.slider-sec .owl-item .lft-sec{width: 120px;}
+	section.slider-sec .owl-item .rgt-sec{padding: 45px 17px 45px 38px; width: calc(100% - 120px);}
+	section.slider-sec blockquote p, section.slider-sec blockquote footer{font-size: 22px; line-height: 32px;}
+
+	footer ul.f-menu li{padding: 0 7px;}
+	footer ul.social li {padding: 0 10px;}
+	footer ul.f-menu {padding: 20px 0;}
+	footer ul.f-menu li{display: block; padding: 10px 0;}
+	footer .footer-top .text-center{text-align: left !important;}
+	footer .footer-top .text-right.home{text-align: left !important;}
+	footer .footer-top .text-right.home ul.social li:first-child{padding-left: 0;}
+	footer .footer-btm.home-btm{text-align: center;}
+	footer .footer-btm.home-btm .text-right{text-align: center !important;}
+
+}
+@media (max-width: 767px){
+	h2.title{font-size: 38px; line-height: 46px;}
+
+	section.banner-sec .inner-banner {padding: 115px 0 70px;}
+	section.banner-sec .rgt-img {position: relative;}
+	section.banner-sec .rgt-img:before{display: none;}
+	section.banner-sec .lft-cnt{text-align: center;}
+	section.banner-sec.beta-banner-sec h2 {font-size: 38px; line-height: 52px;}
+	section.banner-sec.beta-banner-sec p {font-size: 16px;line-height: 22px;}
+	section.banner-sec:after{display: none;}
+	section.banner-sec:before {background-position: left; height: 335px;}
+	section.banner-sec.beta-banner-sec .gift-page .rounded-circle { width: 75px; height: 75px; margin: 0 auto 30px;}
+	section.banner-sec.beta-banner-sec .gift-page h3{font-size: 30px; line-height: 36px; text-align: center;}
+	section.banner-sec h2 {font-size: 40px; line-height: 52px;}
+	section.banner-sec p {font-size: 16px; line-height: 22px; padding: 20px 0 30px;}
+	section.banner-sec .gift-page{padding: 30px 0;}
+	section.banner-sec .gift-page h3{text-align: center; padding-bottom: 20px;}
+
+	section.how-it-work, section.experience, section.gifting, footer.footer{padding: 50px 0;}
+	section.how-it-work h2.title{padding-bottom: 30px;}
+	section.how-it-work .pt-3{padding-top: 2rem !important;}
+	section.how-it-work .cust-icon{min-height: auto;}
+	section.how-it-work button {margin-top: 45px;}
+
+	section.experience h2{max-width: 100%;}
+	section.experience p{max-width: 100%; font-size: 20px; line-height: 30px; padding: 30px 0 35px}
+
+	section.gifting img{display: block; margin: 0 auto; max-width: 75%;}
+	section.gifting p{font-size: 20px; line-height: 30px; padding-bottom: 25px;}
+	section.gifting ul li {font-size: 16px; line-height: 22px; padding-bottom: 20px;}
+	section.gifting button {margin-top: 30px;}
+	section.gifting h2.title{padding-top: 20px;}
+
+	section.slider-sec{padding: 50px 0 15px;}
+	section.slider-sec .owl-carousel .item{height: 224px;}
+	section.slider-sec h2.title{padding-bottom: 30px;}
+	section.slider-sec .owl-item .lft-sec {width: 95px;}
+	section.slider-sec .rounded-circle {width: 85px;height: 85px;}
+	section.slider-sec .owl-nav{padding-top: 15px;}
+	section.slider-sec .owl-item .rgt-sec {padding: 30px 15px 30px 25px; width: calc(100% - 95px);}
+	section.slider-sec blockquote p, section.slider-sec blockquote footer{font-size: 18px; line-height: 28px;}
+
+	section.our-mission{padding: 35px 0 40px;}
+	section.our-mission .lft-img{max-width: 60%; margin: 0 auto;}
+	section.our-mission .lft-img img{max-width: 100%;}
+	section.our-mission ul li:before{top: 10px;}
+	section.our-mission h2.title{line-height: 46px;}
+	section.our-mission p{font-size: 20px; line-height: 30px;}
+	section.our-mission .lft-img:before{top: -35px;}
+	section.our-mission .lft-img:after{right: -35px;}
+	section.our-mission ul {padding-top: 20px;}
+	section.our-mission ul li {padding: 10px 0 10px 20px;}
+
+	footer .footer-top{padding-bottom: 40px; margin-bottom: 30px;}
+
+	.common-model .modal-header{padding: 30px 0 50px;}
+	.common-model .modal-body {padding: 0 15px 50px 15px;}
+	.common-model h2.title{font-size: 36px; line-height: 44px;}
+	.common-model p{font-size: 16px; line-height: 22px;}
+	.common-model form {padding: 15px 0 0;}
+	.common-model form .form-group {margin-bottom: 15px;}
+	.common-model .modal-header .close{font-size: 24px;}
+}
+
+@media (max-width: 575px){
+	h2.title {font-size: 34px; line-height: 44px;}
+	button.common{padding: 10px; width: 260px; min-height: 42px; font-size: 14px; line-height: 19px;}
+
+	header ul.navbar-nav.social li {padding: 0 8px;}
+
+	section.banner-sec.beta-banner-sec h2 {font-size: 34px; line-height: 46px;}
+	section.banner-sec .inner-banner{padding-bottom: 50px;}
+	section.banner-sec:before{height: 350px;}
+	section.banner-sec.beta-banner-sec .gift-page h3{font-size: 26px; line-height: 32px;}
+	section.banner-sec .gift-page form button{right: 15px;}
+
+	section.how-it-work h2.title {padding-bottom: 20px;}
+	section.how-it-work h3{padding-bottom: 15px;}
+
+	section.our-mission ul li{padding-left: 50px;}
+	section.our-mission ul li:before{left: 4px;}
+	section.our-mission .lft-img:before{left: -50px;}
+	section.our-mission .lft-img{max-width: 70%;}
+
+	section.experience p{font-size: 18px; line-height: 24px; padding: 30px 0;}
+	section.experience {background-size: 40% 100%, 40% 100%;}
+
+	section.gifting p, section.our-mission p{font-size: 18px; line-height: 24px;}
+	section.gifting button{padding-top: 20px;}
+	section.gifting img{max-width: 85%;}
+
+	section.slider-sec h2.title{padding-bottom: 20px;}
+	section.slider-sec .owl-carousel .item {height: 200px;}
+	section.slider-sec .owl-item .lft-sec {width: 85px;}
+	section.slider-sec .owl-item .rgt-sec {padding: 25px 15px 25px 25px; width: calc(100% - 55px);}
+	section.slider-sec blockquote p, section.slider-sec blockquote footer {font-size: 16px; line-height: 26px;}
+	section.slider-sec .owl-nav{width: 190px;}
+	section.slider-sec .owl-dots .owl-dot{margin: 0 6px;}
+
+	footer.footer .ftr-logo, footer.footer .footer-btm{text-align: center;}
+	footer .footer-top { padding-bottom: 30px; margin-bottom: 20px;}
+	footer.footer .text-right{text-align: center !important; padding-top: 25px;}
+	footer.footer .footer-btm.home-btm .text-right{padding-top: 10px;}
+	footer .footer-top .text-right.home{padding-top: 0;}
+
+	.common-model .modal-body img{display: block; margin: 0 auto 30px;}
+	.common-model .modal-body{padding-bottom: 30px;}
+	.common-model h2.title {font-size: 32px; line-height: 40px;}
+	.common-model .modal-header .close{padding: 10px;}
+
+}

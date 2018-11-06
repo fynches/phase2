@@ -1,0 +1,41 @@
+.form-control.error {
+    border-color: red;
+}
+label.error{
+	color:red;
+}
+.help-block.help-block-error {
+    color: #e73d4a;
+}
+#filter-user-sort{
+    width:250px;
+}
+#bulk_act{
+    margin-left: 10px;
+}
+.paging_full_numbers,.dataTables_filter{
+    float:right;
+}
+.dataTables_info{
+    margin-top:18px;
+} 
+table.dataTable td.sorting_1, table.dataTable td.sorting_2, table.dataTable td.sorting_3, table.dataTable th.sorting_1, table.dataTable th.sorting_2, table.dataTable th.sorting_3{
+    background:inherit!important;
+}
+
+table.dataTable thead th:first-child.sorting,
+table.dataTable thead th:first-child.sorting_asc,
+table.dataTable thead th:first-child.sorting_desc {
+  background: none;
+  padding: 4px 5px;
+}
+
+#profile_image{
+  display:none;
+}
+
+#fav_activites{display: flex;flex-wrap: wrap;position: relative;justify-content: space-between;}
+.activity-box{position: relative;max-width: 15%;text-align: center;font-size: 12px;}
+.activity-box img{height: 65px;object-fit: contain;}
+.activity-box .image-checkbox .fa{width: 100%; height: 100%;padding:0; background: rgba(0,0,0,.3);font-size: 22px;}
+.activity-box .image-checkbox .fa:before{color: #fff;vertical-align: middle;line-height:80px;}
